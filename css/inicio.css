@@ -1,0 +1,16 @@
+.inicio-tit{
+    padding-bottom: 2%;
+}
+
+.form-margin{
+    margin-top: 2% !important;
+}
+
+#containerformDocente, #containeractAcademica{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+a{
+    cursor: pointer;
+}
